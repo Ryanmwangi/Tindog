@@ -1,2 +1,1 @@
-# Tindog
-Website made with html ,css and bootstrap
+TinDog Starting Files
